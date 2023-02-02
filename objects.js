@@ -71,3 +71,8 @@ let menu = {
   height: 600,
   title: "My menu",
 };
+
+console.log("Before doubling:");
+console.log(menu);
+console.log("After doubling:");
+console.log(menu);
